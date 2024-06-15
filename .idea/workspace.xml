@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Tag error">
+    <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Control">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1DLinearConvectionEquation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1DLinearConvectionEquation.ipynb" afterDir="false" />
     </list>
@@ -79,7 +79,8 @@
       <workItem from="1717944840841" duration="10571000" />
       <workItem from="1717978737630" duration="3615000" />
       <workItem from="1718031068676" duration="3321000" />
-      <workItem from="1718411988865" duration="5400000" />
+      <workItem from="1718411988865" duration="7046000" />
+      <workItem from="1718464487482" duration="2832000" />
     </task>
     <task id="LOCAL-00001" summary="Starting project">
       <option name="closed" value="true" />
@@ -129,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718412492274</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Control">
+      <option name="closed" value="true" />
+      <created>1718418526526</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718418526526</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +148,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Starting project" />
     <MESSAGE value="Tag error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tag error" />
+    <MESSAGE value="Control" />
+    <option name="LAST_COMMIT_MESSAGE" value="Control" />
   </component>
 </project>
