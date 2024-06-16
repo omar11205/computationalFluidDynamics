@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Control">
-      <change afterPath="$PROJECT_DIR$/taylorSeries.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Control" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1718479111289" duration="3438000" />
       <workItem from="1718500280418" duration="705000" />
       <workItem from="1718544051064" duration="5397000" />
-      <workItem from="1718557747107" duration="4380000" />
+      <workItem from="1718557747107" duration="4953000" />
     </task>
     <task id="LOCAL-00001" summary="Starting project">
       <option name="closed" value="true" />
@@ -151,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718471095844</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Control">
+      <option name="closed" value="true" />
+      <created>1718563026435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718563026435</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
