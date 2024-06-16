@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Control">
+      <change afterPath="$PROJECT_DIR$/taylorSeries.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1DLinearConvectionEquation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1DLinearConvectionEquation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,12 @@
       <workItem from="1717978737630" duration="3615000" />
       <workItem from="1718031068676" duration="3321000" />
       <workItem from="1718411988865" duration="7046000" />
-      <workItem from="1718464487482" duration="2832000" />
+      <workItem from="1718464487482" duration="3474000" />
+      <workItem from="1718471388894" duration="839000" />
+      <workItem from="1718479111289" duration="3438000" />
+      <workItem from="1718500280418" duration="705000" />
+      <workItem from="1718544051064" duration="5397000" />
+      <workItem from="1718557747107" duration="4380000" />
     </task>
     <task id="LOCAL-00001" summary="Starting project">
       <option name="closed" value="true" />
@@ -138,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718418526526</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Control">
+      <option name="closed" value="true" />
+      <created>1718471095844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718471095844</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
