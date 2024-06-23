@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 total_x_lenght = 2
 number_grid_points_x = 41
@@ -27,4 +26,4 @@ for n in range(number_of_timesteps):  # run from 0 to number_of_timesteps times
     for i in range(1, number_grid_points_x):
         u[i] = un[i] - c*dt/dx*(un[i] - un[i-1])
 
-plt.plot(np.linspace(0, total_x_lenght, number_grid_points_x), u)
+
