@@ -1,4 +1,5 @@
 import numpy as np
+from IPython.display import display, Markdown
 
 total_x_lenght = 2
 number_grid_points_x = 41
@@ -27,3 +28,16 @@ for n in range(number_of_timesteps):  # run from 0 to number_of_timesteps times
         u[i] = un[i] - c*dt/dx*(un[i] - un[i-1])
 
 
+# Step 2: Define your variables
+my_variable = 42
+another_variable = "Hello, Jupyter!"
+
+# Step 3: Create Markdown content with the variables
+markdown_content = f"""
+# My Variables
+- `my_variable`: {my_variable}
+- `another_variable`: {another_variable}
+"""
+
+# Step 4: Use the display function to render the Markdown
+display(Markdown(markdown_content))
