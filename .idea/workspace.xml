@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Control">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nonLinearConvection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nonLinearConvection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1DLinearConvectionEquation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1DLinearConvectionEquation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +109,7 @@
       <workItem from="1719601262867" duration="1231000" />
       <workItem from="1719622082934" duration="722000" />
       <workItem from="1719676565091" duration="1699000" />
+      <workItem from="1719691922643" duration="4127000" />
     </task>
     <task id="LOCAL-00001" summary="Starting project">
       <option name="closed" value="true" />
