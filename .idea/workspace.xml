@@ -7,7 +7,6 @@
     <list default="true" id="f5af1eb2-f0d0-405e-9a24-604c057f3407" name="Changes" comment="Control">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1DDifussion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1DDifussion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numericalDiferentiation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/numericalDiferentiation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,9 @@
       <workItem from="1720102788011" duration="13250000" />
       <workItem from="1720132310798" duration="3234000" />
       <workItem from="1720137752083" duration="3057000" />
-      <workItem from="1720191500301" duration="8957000" />
+      <workItem from="1720191500301" duration="9062000" />
+      <workItem from="1720203862943" duration="1073000" />
+      <workItem from="1720218081268" duration="9706000" />
     </task>
     <task id="LOCAL-00001" summary="Starting project">
       <option name="closed" value="true" />
@@ -441,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720134360158</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Control">
+      <option name="closed" value="true" />
+      <created>1720200572264</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1720200572264</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
